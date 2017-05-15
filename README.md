@@ -1,6 +1,12 @@
 ATC Transcription
 =================
 
+Setup
+=====
+
+```
+    pip install -r requirements.txt
+```
 
 First make a dictionary by putting words into the lexicon file. 
 These words will be broken into their phonetics.
